@@ -1,2 +1,2 @@
 # Assignment_1
-Refer Txt file for Admin credentials 
+Refer doc file for Admin credentials 
